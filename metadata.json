@@ -1,0 +1,6 @@
+{
+  "name": "Kutmadan Resort Cherrapunji | Official Website & Room Booking",
+  "description": "Official website of Kutmadan Resort Cherrapunji in Sohra, Meghalaya. Explore the six official room categories, amenities, tariffs, nearby waterfalls, and book directly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
